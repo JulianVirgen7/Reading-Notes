@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-### Welcome to my first webpage!
+# Welcome to my first webpage!
 You can use the [editor on GitHub](https://github.com/JulianVirgen7/Reading-Notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -11,18 +11,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-## Here is some advice for you!
+## What is growth mindset?
 
-- Always do your best
-- Never let anyone tell you that you can't do something
-- Help others around you
+- Growth mindset in my opinion is always wanting to be positive any thinking ahed to what is to come.
 
-1. Numbered
-2. List
+1. Always do do your best
+2. Never let anyone tell you that you can't do something
+3. Help others around you
 
-**Bold** and _Italic_ and `Code` text
+## Want to learn more about growth mnindset? Check out this website link below.
 
-[Link](url) and ![Image](src)
+[Link](https://www.mindsetworks.com/science/) and ![Image](https://sites.google.com/a/vestavia.k12.al.us/ms-carr-s-race-cars/parent-information/growth-mindset)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
