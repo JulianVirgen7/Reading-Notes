@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/JulianVirgen7/Reading-Note
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Markdown 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -13,13 +13,13 @@ Syntax highlighted code block
 
 ## What is growth mindset?
 
-- Growth mindset in my opinion is always wanting to be positive any thinking ahed to what is to come.
+- Growth mindset in my opinion is always wanting to be positive and thinking ahead to what is to come.
 
-1. Always do do your best
+1. Always do your best
 2. Never let anyone tell you that you can't do something
 3. Help others around you
 
-## Want to learn more about growth mnindset? Check out this website link below.
+## Want to learn more about growth mnindset? Check out the links below!
 
 [Link](https://www.mindsetworks.com/science/) and ![Image](https://sites.google.com/a/vestavia.k12.al.us/ms-carr-s-race-cars/parent-information/growth-mindset)
 ```
