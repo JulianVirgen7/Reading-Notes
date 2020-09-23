@@ -13,7 +13,8 @@ Syntax highlighted code block
 
 ## What is growth mindset?
 
-- Hey there, my name is Julian virgen and growth mindset in my opinion is always wanting to be positive and thinking ahead to what is to come.
+- Hey there, my name is Julian virgen and growth mindset in my opinion is always wanting 
+to be positive and thinking ahead to what is to come.
 
 1. Always do your best
 2. Never let anyone tell you that you can't do something
@@ -21,7 +22,8 @@ Syntax highlighted code block
 
 ## Want to learn more about growth mnindset? Check out the links below!
 
-[Link](https://www.mindsetworks.com/science/) and ![Image](https://sites.google.com/a/vestavia.k12.al.us/ms-carr-s-race-cars/parent-information/growth-mindset)
+[Link](https://www.mindsetworks.com/science/) and ![Image]
+(https://sites.google.com/a/vestavia.k12.al.us/ms-carr-s-race-cars/parent-information/growth-mindset)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
