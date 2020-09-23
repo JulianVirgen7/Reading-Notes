@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 ## What is growth mindset?
 
-- Growth mindset in my opinion is always wanting to be positive and thinking ahead to what is to come.
+- Hey there, my name is Julian virgen and growth mindset in my opinion is always wanting to be positive and thinking ahead to what is to come.
 
 1. Always do your best
 2. Never let anyone tell you that you can't do something
