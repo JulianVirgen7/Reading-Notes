@@ -8,4 +8,11 @@ A text editor is a peice of software that you instal on your computer, or you ac
 3) A nice variety of themes
 4) The ability to choose from a healthy selection of extensions when you need them
 ## What are some third party options?
+1) Notepad++
+2)Text Wrangler
+3)BB Edit
+4)Visual Studio Code
+5)Atom
+6)Brackets
+7)Sublime Text
 
