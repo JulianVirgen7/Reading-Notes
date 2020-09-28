@@ -20,4 +20,6 @@ A text editor is a peice of software that you instal on your computer, or you ac
 A text editor clearly edits text. However, it also manges text and files. A text editor puts your text together and makes it meaningful.
 An IDE (Integrated Development Environment) is a bunch of software all coming together. An IDE is a text editor, a file
 manager, a compiler, and a debugger all in one software package.
+## Why is this information important?
+This information is important to software developers who want to select the right text editor for them. It is all personal preference when it comes to choosing a text editor to write code in. When software developers read this imformation they will know that they have to find a text editor that works efficiently and has the costomizatio that they need such as themes and color.
 
